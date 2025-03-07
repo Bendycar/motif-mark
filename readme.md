@@ -5,6 +5,7 @@ Project for Bi625, BGMP, Winter 2025. Generates visualization of protein binding
 ### Input:
 
   -FASTA file containing up to 10 sequences with fewer than 1000 nucleotides
+  
   -Motif file containing any number of motifs with one motif per line
 
 ### Output:
